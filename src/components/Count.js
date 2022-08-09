@@ -7,3 +7,4 @@ const Count=(props)=> {
   }
   export default Count;
   
+  //props ka defulat type = object ;
